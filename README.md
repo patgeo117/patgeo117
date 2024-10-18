@@ -23,8 +23,10 @@ When I'm not coding, I'm probably on a **trail run** or Watching **Midudev** ðŸ“
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patgeo117&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patgeo117&layout=compact&theme=radical)
+### âš™ GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patgeo117&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patgeo117&layout=compact&theme=radical)
+
 
 ---
 
