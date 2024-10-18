@@ -26,11 +26,10 @@
 - How I stay **curious and motivated** to learn new things every day 🧠
 
 ### 📫 How to reach me: 
-- **Email:** patgeo117@example.com  
-- **Twitter:** [@patgeo117](https://twitter.com/patgeo117)  
+- **Email:** gpatino017@gmail.com 
 
 ### ⚡ Fun fact:
-When I'm not coding, I'm probably on a **trail run** or reading **Gabriel García Márquez** 📚
+When I'm not coding, I'm probably on a **trail run** or Watching **Midudev** 📚
 
 ---
 
@@ -38,6 +37,4 @@ When I'm not coding, I'm probably on a **trail run** or reading **Gabriel Garcí
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patgeo117&layout=compact&theme=radical)
 
 ---
-
-✨ Let's connect and build something **awesome**! ✨
 
