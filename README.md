@@ -10,7 +10,7 @@
 ### 🌱 Currently learning: 
 - **MikroTik networking** 📡
 - **Cybersecurity** 🛡️
-- **Dev FullStack Web**
+- **Dev FullStack Web** 🔧
 
 ### 👯 I’m looking to collaborate on:
 - Projects that make **technology accessible** and **fun!** 😎
