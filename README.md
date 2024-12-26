@@ -1,3 +1,8 @@
+---
+layout: default
+title: George Patiño - Portfolio
+---
+
 ## Hi there 👋, I'm George Patiño!  
 **💻 Developer | 🇨🇴 Colombian | 🚀 Tech Enthusiast**  
 
@@ -17,14 +22,32 @@ I’m a 20-year-old passionate **web and mobile developer**, driven by technolog
 
 ---
 
-### 🔄 Currently Working On: 
-- Building apps with **React**, **Node.js**, and **Tailwind CSS**.  
-- Developing innovative **software projects**.  
+### 🌎 Featured Projects:
+- **JavaScript 100 Projects:** [View on GitHub](https://github.com/patgeo117/javascript-100-proyectos)  
+  A collection of 100 JavaScript projects showcasing creativity and coding proficiency.
 
-### 🌱 Currently Learning: 
-- **MikroTik networking** 📡.  
-- **Cybersecurity** 🛡️.  
-- Full-stack web development 🔧.  
+---
+
+### 📈 Certifications and Education:
+- **Technologist in Systems Engineering.**
+- **Certified Scrum Master.**
+- **Entrepreneur:** Founder of [Versanet.co S.A.S](https://versanet.co), a successful internet service company.
+
+---
+
+### 📅 Experience Timeline:
+```mermaid
+gantt
+title Career Timeline
+dateFormat  YYYY-MM-DD
+section Education
+Technologist in Systems Engineering       :done,    edu1, 2018-01-01, 2020-12-31
+Certified Scrum Master                   :done,    edu2, 2021-01-01, 2021-03-01
+section Entrepreneurship
+Founder of Versanet.co S.A.S             :active,  ent1, 2021-04-01, 2024-12-31
+section Development
+JavaScript 100 Projects                  :active,  dev1, 2023-01-01, 2023-12-31
+```
 
 ---
 
@@ -34,8 +57,8 @@ I’m a 20-year-old passionate **web and mobile developer**, driven by technolog
 - **Profession:** Web and Mobile Developer.  
 - **Hobbies:** Motorcycles 🏍️, Traveling 🌍.  
 - **Key Skills:** Problem-solving, rapid development, teamwork.  
-- **Projects:** From tailored web solutions to efficient network systems.
-- **Contact:** [Email me](mailto:gpatino017@gmail.com) for collaborations or inquiries.
+- **Projects:** From tailored web solutions to efficient network systems.  
+- **Contact:** [Email me](mailto:gpatino017@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/gepdev).  
 
 ---
 
@@ -50,3 +73,34 @@ I’m a 20-year-old passionate **web and mobile developer**, driven by technolog
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patgeo117&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patgeo117&layout=compact&theme=radical)
 
 ---
+
+### 🟢 A Touch of Creativity:
+#### **Dynamic Progress Bars:**
+```html
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 30%;">
+    <p>React</p>
+    <progress value="90" max="100"></progress>
+  </div>
+  <div style="width: 30%;">
+    <p>JavaScript</p>
+    <progress value="85" max="100"></progress>
+  </div>
+  <div style="width: 30%;">
+    <p>MikroTik</p>
+    <progress value="75" max="100"></progress>
+  </div>
+</div>
+```
+
+---
+
+### 🌈 Visual Enhancements:
+Add smooth transitions, vibrant colors, and hover effects using **CSS animations** for sections.
+```css
+/* Example */
+section:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease-in-out;
+}
+```
