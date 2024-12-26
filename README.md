@@ -1,8 +1,3 @@
----
-layout: default
-title: George Patiño - Portfolio
----
-
 ## Hi there 👋, I'm George Patiño!  
 **💻 Developer | 🇨🇴 Colombian | 🚀 Tech Enthusiast**  
 
