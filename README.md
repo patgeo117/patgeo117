@@ -57,12 +57,6 @@ JavaScript 100 Projects                  :active,  dev1, 2023-01-01, 2023-12-31
 
 ---
 
-### 👯‍♂️ Open to Collaborate:
-- Projects that make **technology accessible** and **fun!** 😎.  
-- Open-source contributions that challenge my skills and growth.  
-
----
-
 ### 📊 GitHub Analytics:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patgeo117&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patgeo117&layout=compact&theme=radical)
