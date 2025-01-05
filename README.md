@@ -66,8 +66,6 @@
 
 ### 📊 GitHub Analytics:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patgeo117&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patgeo117&layout=compact&theme=radical)
-
 <table>
   <tr>
     <td><a href="https://github.com/patgeo117"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=patgeo117&theme=dark" height="220em" /></a></td>
