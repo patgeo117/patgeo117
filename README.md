@@ -51,7 +51,6 @@
 - **Certified Scrum Master.**
 - **Entrepreneur:** Founder of [Versanet.co S.A.S](https://versanet.co), a successful internet service company.
 
----
 
 ### 👤 Resume:
 - **Name:** George Patiño.  
@@ -83,4 +82,3 @@
   </tr>
 </table>
 
----
