@@ -53,22 +53,6 @@
 
 ---
 
-### 📅 Experience Timeline:
-mermaid
-gantt
-title Career Timeline
-dateFormat  YYYY-MM-DD
-section Education
-Technologist in Systems Engineering       :done,    edu1, 2018-01-01, 2020-12-31
-Certified Scrum Master                   :done,    edu2, 2021-01-01, 2021-03-01
-section Entrepreneurship
-Founder of Versanet.co S.A.S             :active,  ent1, 2021-04-01, 2024-12-31
-section Development
-JavaScript 100 Projects                  :active,  dev1, 2023-01-01, 2023-12-31
-
-
----
-
 ### 👤 Resume:
 - **Name:** George Patiño.  
 - **Age:** 20 years old.  
