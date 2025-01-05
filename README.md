@@ -22,7 +22,7 @@
 
 <h2 align="center">Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,dart,js,ts,react,nodejs,flutter,aws,git,html,css)](https://github.com/patgeo117)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,dart,js,ts,react,nodejs,flutter,aws,git,html,css,python,docker,linux,vscode,figma,github)](https://github.com/patgeo117)
 
 </div>
 
