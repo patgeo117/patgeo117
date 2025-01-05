@@ -68,4 +68,21 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patgeo117&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patgeo117&layout=compact&theme=radical)
 
+<table>
+  <tr>
+    <td><a href="https://github.com/patgeo117"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=patgeo117&theme=dark" height="220em" /></a></td>
+    <td><a href="https://github.com/patgeo117"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patgeo117&exclude=Jupyter%20Notebook&theme=dark" height="220em" /></a></td>
+    <td><a href="https://github.com/patgeo117?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patgeo117&layout=compact&theme=dark&hide=jupyter%20notebook,scss,ruby,shell,python&hide_border=true" height="220em" /></a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/patgeo117"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=patgeo117&limit=5&combine_all_yearly_contributions=true&theme=dark&hide_border=true&custom_title=Top%20Contributed%20Repo" height="200em" /></a>
+    </td>
+    <td><a href="https://github.com/patgeo117"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patgeo117&theme=dark" height="180em" /></a>
+    </td>
+  </tr>
+</table>
+
 ---
