@@ -1,5 +1,14 @@
-## Hi there 👋, I'm George Patiño!  
-**💻 Developer | 🇨🇴 Colombian | 🚀 Tech Enthusiast**  
+<div align="center">
+  <p>
+    <a href="https://github.com/patgeo117">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=510&height=25&lines=George+Patiño" alt="George Patiño"/></a>
+  </p>
+
+  <p>
+    <a href="https://github.com/patgeo117">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&random=false&width=550&height=30&lines=Hello+there!;💻+I'm+a+passionate+Web+and+Mobile+Developer+💻;🚀+Open+Source+Enthusiast+🚀;📚+Always+learning+new+things+📚;⚡+Happy+coding+⚡" alt="George's greetings"/></a>
+  </p>
+</div>
 
 ---
 
