@@ -26,12 +26,6 @@
 
 </div>
 
-<hr>
-
-<a href="https://github.com/patgeo117">
-</a>
-
-
 <!-- ## About Me -->
 
 - 📆 I’m currently working on... Cool projects.
