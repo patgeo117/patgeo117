@@ -33,7 +33,7 @@
 - 🤔 I’m looking for guidance in... Entering the front-end industry.
 - 👯 I’m looking to collaborate on... Open-source software I deeply value.
 - 🎮 I'm passionate about... Web Development & Never Stop Learning.
-💬 Ask me about... diving into open-source contributions.
+- 💬 Ask me about... diving into open-source contributions.
 
 <!-- - 🤔 I’m looking for help with... front end. ⚡-->
 
