@@ -10,12 +10,14 @@
   </p>
 </div>
 
----
+<div align="center">
 
-### 🔬 About Me:
-I’m a 20-year-old passionate **web and mobile developer**, driven by technology, motorcycles, and travel. I excel in solving problems quickly and effectively while fostering collaboration with my strong social skills. My goal is to create impactful digital solutions and explore innovations.  
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> my name is George and I am a Web and Mobile Developer
 
----
+</div>
+
+<p align="justify">I’m a passionate Web and Mobile Developer from Colombia. Obsessed with technology, motorcycles, and travel, I thrive on solving problems quickly and effectively while fostering collaboration with my strong social skills. My focus is on creating impactful digital solutions and continuously exploring innovations in tech.</p>
+
 
 ### 🔠 Skills:
 - **Programming Languages:** Java, C++, Dart, JavaScript, TypeScript.
