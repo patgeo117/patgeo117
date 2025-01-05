@@ -1,131 +1,64 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="George Patiño - Developer Portfolio">
-    <title>George Patiño - Portfolio</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: 'Roboto', sans-serif;
-            margin: 0;
-            background: #f4f4f9;
-            color: #333;
-        }
-        header {
-            background: #2c3e50;
-            color: white;
-            padding: 20px 0;
-            text-align: center;
-        }
-        header h1 {
-            margin: 0;
-        }
-        nav ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-            display: flex;
-            justify-content: center;
-            background: #34495e;
-        }
-        nav ul li {
-            margin: 0 15px;
-        }
-        nav ul li a {
-            color: white;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        section {
-            padding: 20px;
-            max-width: 1200px;
-            margin: auto;
-        }
-        .hero {
-            text-align: center;
-            padding: 50px 20px;
-            background: linear-gradient(135deg, #1abc9c, #3498db);
-            color: white;
-        }
-        .hero h2 {
-            font-size: 2.5rem;
-        }
-        .projects, .skills, .contact {
-            margin-bottom: 40px;
-        }
-        .projects img, .skills img {
-            max-width: 100%;
-            border-radius: 8px;
-        }
-        .contact form {
-            display: flex;
-            flex-direction: column;
-        }
-        .contact form input, .contact form textarea {
-            margin: 10px 0;
-            padding: 10px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-        }
-        footer {
-            text-align: center;
-            padding: 20px;
-            background: #2c3e50;
-            color: white;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>George Patiño</h1>
-        <p>Web & Mobile Developer | Tech Enthusiast | Entrepreneur</p>
-    </header>
-    <nav>
-        <ul>
-            <li><a href="#about">About</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <li><a href="#skills">Skills</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
-    <section class="hero" id="about">
-        <h2>Hi, I’m George Patiño!</h2>
-        <p>A passionate developer with a knack for solving problems, creating efficient solutions, and exploring the world through technology, motorcycles, and travel.</p>
-    </section>
-    <section class="projects" id="projects">
-        <h2>Featured Projects</h2>
-        <div>
-            <h3>JavaScript 100 Projects</h3>
-            <p>A collection of creative JavaScript projects.</p>
-            <a href="https://github.com/patgeo117/javascript-100-proyectos" target="_blank">View on GitHub</a>
-        </div>
-    </section>
-    <section class="skills" id="skills">
-        <h2>Skills</h2>
-        <ul>
-            <li>Java, C++, Dart, JavaScript, TypeScript</li>
-            <li>React, Node.js, Flutter</li>
-            <li>Networking: MikroTik, Optical Fiber, AWS</li>
-            <li>Version Control: Git, GitHub</li>
-            <li>Soft Skills: Problem-solving, teamwork</li>
-        </ul>
-    </section>
-    <section class="contact" id="contact">
-        <h2>Contact Me</h2>
-        <form action="mailto:gpatino017@gmail.com" method="post" enctype="text/plain">
-            <input type="text" name="name" placeholder="Your Name">
-            <input type="email" name="email" placeholder="Your Email">
-            <textarea name="message" rows="5" placeholder="Your Message"></textarea>
-            <button type="submit">Send</button>
-        </form>
-    </section>
-    <footer>
-        <p>Connect with me: <a href="https://www.linkedin.com/in/gepdev" target="_blank">LinkedIn</a> | <a href="https://versanet.co" target="_blank">Versanet</a></p>
-        <p>&copy; 2024 George Patiño. All Rights Reserved.</p>
-    </footer>
-</body>
-</html>
+## Hi there 👋, I'm George Patiño!  
+**💻 Developer | 🇨🇴 Colombian | 🚀 Tech Enthusiast**  
+
+---
+
+### 🔬 About Me:
+I’m a 20-year-old passionate **web and mobile developer**, driven by technology, motorcycles, and travel. I excel in solving problems quickly and effectively while fostering collaboration with my strong social skills. My goal is to create impactful digital solutions and explore innovations.  
+
+---
+
+### 🔠 Skills:
+- **Programming Languages:** Java, C++, Dart, JavaScript, TypeScript.
+- **Frameworks & Libraries:** React, Node.js, Flutter.
+- **Networking & Cloud:** AWS, MikroTik, Optical Fiber, Custom Scripts.
+- **Version Control:** Git, GitHub.
+- **Soft Skills:** Teamwork, Communication, Fast Problem-Solving.
+
+---
+
+### 🌎 Featured Projects:
+- **JavaScript 100 Projects:** [View on GitHub](https://github.com/patgeo117/javascript-100-proyectos)  
+  A collection of 100 JavaScript projects showcasing creativity and coding proficiency.
+
+---
+
+### 📈 Certifications and Education:
+- **Technologist in Systems Engineering.**
+- **Certified Scrum Master.**
+- **Entrepreneur:** Founder of [Versanet.co S.A.S](https://versanet.co), a successful internet service company.
+
+---
+
+### 📅 Experience Timeline:
+mermaid
+gantt
+title Career Timeline
+dateFormat  YYYY-MM-DD
+section Education
+Technologist in Systems Engineering       :done,    edu1, 2018-01-01, 2020-12-31
+Certified Scrum Master                   :done,    edu2, 2021-01-01, 2021-03-01
+section Entrepreneurship
+Founder of Versanet.co S.A.S             :active,  ent1, 2021-04-01, 2024-12-31
+section Development
+JavaScript 100 Projects                  :active,  dev1, 2023-01-01, 2023-12-31
+
+
+---
+
+### 👤 Resume:
+- **Name:** George Patiño.  
+- **Age:** 20 years old.  
+- **Profession:** Web and Mobile Developer.  
+- **Hobbies:** Motorcycles 🏍️, Traveling 🌍.  
+- **Key Skills:** Problem-solving, rapid development, teamwork.  
+- **Projects:** From tailored web solutions to efficient network systems.  
+- **Contact:** [Email me](mailto:gpatino017@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/gepdev).  
+
+---
+
+### 📊 GitHub Analytics:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patgeo117&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patgeo117&layout=compact&theme=radical)
+
+---
