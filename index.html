@@ -7,46 +7,51 @@
     <title>George Patiño</title>
     <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
-        :root {
-            --bg-color: #121212;
-            --text-color: #f4f4f9;
-            --accent-color: #00bcd4;
-            --secondary-bg-color: #1f1f1f;
-        }
-        [data-theme="light"] {
-            --bg-color: #ffffff;
-            --text-color: #000000;
-            --accent-color: #007acc;
-            --secondary-bg-color: #f0f0f0;
-        }
         body {
             font-family: 'Roboto', sans-serif;
             margin: 0;
-            background: var(--bg-color);
-            color: var(--text-color);
-            transition: all 0.3s ease;
+            background: #121212;
+            color: #f4f4f9;
         }
         header {
             text-align: center;
             padding: 40px;
-            background: var(--secondary-bg-color);
+            background: #1f1f1f;
         }
         header h1 {
             font-family: 'Fira Code', monospace;
             font-size: 3rem;
-            color: var(--accent-color);
+            color: #00bcd4;
         }
         header p {
             font-size: 1.2rem;
             margin: 10px 0;
         }
-        .hero, .skills, .certifications, .github-stats, .projects, .contact {
+        .hero {
+            text-align: center;
+            padding: 40px 20px;
+        }
+        .hero h2 {
+            font-family: 'Fira Code', monospace;
+            font-size: 2rem;
+            color: #00bcd4;
+        }
+        .hero p {
+            font-size: 1.1rem;
+            max-width: 800px;
+            margin: auto;
+        }
+        .skills, .certifications, .github-stats {
             padding: 40px 20px;
             text-align: center;
         }
         .skills img {
             margin-top: 20px;
             max-width: 100%;
+        }
+        .contact {
+            padding: 40px 20px;
+            text-align: center;
         }
         .contact form {
             max-width: 600px;
@@ -62,7 +67,7 @@
         }
         .contact form button {
             padding: 10px 20px;
-            background: var(--accent-color);
+            background: #00bcd4;
             color: white;
             border: none;
             border-radius: 4px;
@@ -70,95 +75,81 @@
             cursor: pointer;
         }
         .contact form button:hover {
-            background: var(--accent-color);
+            background: #008c9e;
         }
         footer {
             text-align: center;
             padding: 20px;
-            background: var(--secondary-bg-color);
+            background: #1f1f1f;
         }
         footer a {
-            color: var(--accent-color);
+            color: #00bcd4;
             text-decoration: none;
         }
         footer a:hover {
             text-decoration: underline;
         }
-        .language-toggle, .theme-toggle {
-            position: fixed;
-            top: 10px;
-            right: 10px;
-            background: var(--accent-color);
-            color: white;
-            border: none;
-            padding: 10px 15px;
-            cursor: pointer;
-            border-radius: 5px;
-        }
-        .language-toggle {
-            right: 100px;
-        }
     </style>
 </head>
 <body>
     <header>
-        <h1 data-text-en="George Patiño" data-text-es="George Patiño">George Patiño</h1>
-        <p data-text-en="Web & Mobile Developer | Tech Enthusiast | Entrepreneur" data-text-es="Desarrollador Web y Móvil | Entusiasta de la Tecnología | Emprendedor">
-            Web & Mobile Developer | Tech Enthusiast | Entrepreneur
-        </p>
+        <h1>George Patiño</h1>
+        <p>Web & Mobile Developer | Tech Enthusiast | Entrepreneur</p>
     </header>
 
-    <button class="theme-toggle" onclick="toggleTheme()">Switch Theme</button>
-    <button class="language-toggle" onclick="toggleLanguage()">Español</button>
-
     <section class="hero">
-        <h2 data-text-en="Hello there!" data-text-es="¡Hola!">Hello there!</h2>
-        <p data-text-en="💻 I'm a passionate Web and Mobile Developer from Colombia. 🚀 Obsessed with technology, motorcycles, and travel. 📚 Always learning new things and solving problems effectively. ⚡ Let's build impactful digital solutions together!"
-           data-text-es="💻 Soy un apasionado desarrollador web y móvil de Colombia. 🚀 Obsesionado con la tecnología, las motocicletas y los viajes. 📚 Siempre aprendiendo cosas nuevas y resolviendo problemas eficazmente. ⚡ ¡Construyamos soluciones digitales impactantes juntos!">
-            💻 I'm a passionate Web and Mobile Developer from Colombia. 🚀 Obsessed with technology, motorcycles, and travel. 📚 Always learning new things and solving problems effectively. ⚡ Let's build impactful digital solutions together!
+        <h2>Hello there!</h2>
+        <p>
+            💻 I'm a passionate Web and Mobile Developer from Colombia.<br>
+            🚀 Obsessed with technology, motorcycles, and travel.<br>
+            📚 Always learning new things and solving problems effectively.<br>
+            ⚡ Let's build impactful digital solutions together!
         </p>
     </section>
 
-    <section class="projects">
-        <h2 data-text-en="Recent Projects" data-text-es="Proyectos Recientes">Recent Projects</h2>
-        <div>
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patgeo117&theme=github_dark" alt="GitHub Productivity">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=patgeo117&repo=example-project&theme=github_dark" alt="Example Project">
-        </div>
+    <section class="skills">
+        <h2>Skills</h2>
+        <p>
+            <strong>Languages:</strong> Java, C++, Dart, JavaScript, TypeScript<br>
+            <strong>Frameworks:</strong> React, Node.js, Flutter<br>
+            <strong>Networking:</strong> MikroTik, Optical Fiber, AWS<br>
+            <strong>Version Control:</strong> Git, GitHub<br>
+            <strong>Soft Skills:</strong> Problem-solving, teamwork
+        </p>
+        <img src="https://skillicons.dev/icons?i=java,cpp,dart,js,ts,react,nodejs,flutter,aws,git,html,css" alt="George's Skills">
+    </section>
+
+    <section class="certifications">
+        <h2>Certifications and Education</h2>
+        <ul>
+            <li>Technologist in Systems Engineering</li>
+            <li>Certified Scrum Master</li>
+            <li>Founder of <a href="https://versanet.co" target="_blank">Versanet.co S.A.S</a></li>
+        </ul>
     </section>
 
     <section class="github-stats">
-        <h2 data-text-en="GitHub Analytics" data-text-es="Estadísticas de GitHub">GitHub Analytics</h2>
+        <h2>GitHub Analytics</h2>
         <div>
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=patgeo117&theme=github_dark" alt="GitHub Stats">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patgeo117&theme=github_dark" alt="Top Languages">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=patgeo117&theme=github_dark" alt="GitHub Stats" height="150">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patgeo117&theme=github_dark" alt="Top Languages" height="150">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patgeo117&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" height="150">
         </div>
     </section>
 
+    <section class="contact">
+        <h2>Contact Me</h2>
+        <form action="mailto:gpatino017@gmail.com" method="post" enctype="text/plain">
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
+            <button type="submit">Send</button>
+        </form>
+        <p>Or connect with me on <a href="https://github.com/patgeo117" target="_blank">GitHub</a> or <a href="https://www.linkedin.com/in/gepdev" target="_blank">LinkedIn</a>.</p>
+    </section>
+
     <footer>
-        <p data-text-en="&copy; 2024 George Patiño. All Rights Reserved." data-text-es="&copy; 2024 George Patiño. Todos los derechos reservados.">
-            &copy; 2024 George Patiño. All Rights Reserved.
-        </p>
+        <p>&copy; 2024 George Patiño. All Rights Reserved.</p>
     </footer>
-
-    <script>
-        function toggleTheme() {
-            document.body.dataset.theme = document.body.dataset.theme === "light" ? "dark" : "light";
-        }
-
-        function toggleLanguage() {
-            const lang = document.body.dataset.lang === "es" ? "en" : "es";
-            document.body.dataset.lang = lang;
-
-            document.querySelectorAll("[data-text-en]").forEach(el => {
-                el.innerText = el.dataset[`text-${lang}`];
-            });
-
-            document.querySelector(".language-toggle").innerText = lang === "en" ? "Español" : "English";
-        }
-
-        document.body.dataset.theme = "dark";
-        document.body.dataset.lang = "en";
-    </script>
 </body>
 </html>
