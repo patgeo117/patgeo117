@@ -11,9 +11,7 @@
 </div>
 
 <div align="center">
-
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> my name is George and I am a Web and Mobile Developer
-
+  
 </div>
 
 <p align="justify">I’m a passionate Web and Mobile Developer from Colombia. Obsessed with technology, motorcycles, and travel, I thrive on solving problems quickly and effectively while fostering collaboration with my strong social skills. My focus is on creating impactful digital solutions and continuously exploring innovations in tech.</p>
@@ -31,15 +29,22 @@
 <hr>
 
 <a href="https://github.com/patgeo117">
-    <img align="right" src="assets/images/avatar.svg" width="300">
 </a>
 
 
-### 🌎 Featured Projects:
-- **JavaScript 100 Projects:** [View on GitHub](https://github.com/patgeo117/javascript-100-proyectos)  
-  A collection of 100 JavaScript projects showcasing creativity and coding proficiency.
+<!-- ## About Me -->
 
----
+- 📆 I’m currently working on... Cool projects.
+- 🌱 I’m currently learning ... JavaScript frameworks.
+- 🤔 I’m looking for guidance in... Entering the front-end industry.
+- 👯 I’m looking to collaborate on... Open-source software I deeply value.
+- 🎮 I'm passionate about... Web Development & Never Stop Learning.
+💬 Ask me about... diving into open-source contributions.
+
+<!-- - 🤔 I’m looking for help with... front end. ⚡-->
+
+<a href="https://github.com/patgeo117?tab=repositories">
+<img src="https://streak-stats.demolab.com?user=patgeo117&theme=dark&hide_border=true" /></a>
 
 ### 📈 Certifications and Education:
 - **Technologist in Systems Engineering.**
