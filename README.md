@@ -19,14 +19,21 @@
 <p align="justify">I’m a passionate Web and Mobile Developer from Colombia. Obsessed with technology, motorcycles, and travel, I thrive on solving problems quickly and effectively while fostering collaboration with my strong social skills. My focus is on creating impactful digital solutions and continuously exploring innovations in tech.</p>
 
 
-### 🔠 Skills:
-- **Programming Languages:** Java, C++, Dart, JavaScript, TypeScript.
-- **Frameworks & Libraries:** React, Node.js, Flutter.
-- **Networking & Cloud:** AWS, MikroTik, Optical Fiber, Custom Scripts.
-- **Version Control:** Git, GitHub.
-- **Soft Skills:** Teamwork, Communication, Fast Problem-Solving.
+<!-- ### 🎯 Some technologies I use: -->
+<div align="center">
 
----
+<h2 align="center">Skills</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,dart,js,ts,react,nodejs,flutter,aws,git,html,css)](https://github.com/patgeo117)
+
+</div>
+
+<hr>
+
+<a href="https://github.com/patgeo117">
+    <img align="right" src="assets/images/avatar.svg" width="300">
+</a>
+
 
 ### 🌎 Featured Projects:
 - **JavaScript 100 Projects:** [View on GitHub](https://github.com/patgeo117/javascript-100-proyectos)  
