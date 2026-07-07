@@ -226,9 +226,9 @@ Sistema de gestión para operaciones de lavandería industrial.
 
 | | |
 |---|---|
-| 🎓 **Tecnólogo en Ingeniería de Sistemas** | Universidad Nacional Abierta y a Distancia (UNAD) |
+| 🎓 **Tecnólogo en Ingeniería de Sistemas** | Universidad del valle |
 | 📜 **Certified Scrum Master (CSM)** | Metodologías ágiles y gestión de proyectos |
-| 📚 **Matemáticas Discretas, Herramientas Digitales** | Cursos avanzados UNAD — Teoría de grafos, gestión del conocimiento |
+| 📚 **Ingenieria en Sistemas** | Cursos avanzados UNAD  |
 
 ---
 
