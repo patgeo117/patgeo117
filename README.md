@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=George%20Pati%C3%B1o&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=50&lines=Full+Stack+Developer+%7C+Entrepreneur;Building+real-world+solutions+from+Colombia+%F0%9F%87%A8%F0%9F%87%B4;Web+%7C+Mobile+%7C+ISP+Platforms+%7C+Automation" alt="Typing intro" />
-</div>
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full+Stack+Developer+%7C+Entrepreneur;Building+real-world+solutions+from+Colombia;Web+%7C+Mobile+%7C+ISP+Platforms+%7C+Automation" alt="Typing intro" />
 
 <br/>
 
