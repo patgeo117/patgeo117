@@ -236,10 +236,11 @@ Sistema de gestión para operaciones de lavandería industrial.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=patgeo117&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=patgeo117&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=patgeo117&theme=tokyonight" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=patgeo117&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patgeo117&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patgeo117&theme=tokyonight" height="180" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patgeo117&theme=tokyonight" height="180" alt="Most Commit Language"/>
 
 </div>
 
@@ -249,15 +250,12 @@ Sistema de gestión para operaciones de lavandería industrial.
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patgeo117&theme=tokyonight" width="800"/>
+
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=patgeo117&theme=tokyonight" height="165"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patgeo117&theme=tokyonight" height="165"/></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patgeo117&theme=tokyonight" height="165"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-contributor-stats.vercel.app/api?username=patgeo117&limit=5&combine_all_yearly_contributions=true&theme=tokyonight&hide_border=true" height="150"/></td>
-    <td colspan="2"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patgeo117&theme=tokyonight" height="150"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=patgeo117&theme=tokyonight&utcOffset=-5" height="180"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patgeo117&theme=tokyonight" height="180"/></td>
   </tr>
 </table>
 
